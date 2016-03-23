@@ -1,5 +1,8 @@
 # Hackerspace!
 
+> Curious about how software actually gets built? Get introduced to some of the tools that developers use at the Getty, 
+> and use them to build your own blog!
+
 Welcome to the **Hackerspace**, part of the first-ever Getty Digital Share.
 This file contains some useful links and resources to help you get started.
 
