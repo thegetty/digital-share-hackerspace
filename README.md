@@ -23,7 +23,7 @@ available in both PC and Mac versions:
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for formatting documents.
-It doesn't require any special program to use -- all markdown files are really just _plain text_.
+It doesn't require any special program to use—all markdown files are really just _plain text_.
 
 > The overriding design goal for Markdown’s formatting syntax is to make it as readable as
 > possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain
