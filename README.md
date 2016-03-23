@@ -81,7 +81,15 @@ Since a full explanation of how Git works is beyond the scope of this workshop, 
 
 ### Static Site Generators
 
-> Some info about Jekyll/static site generators here
+[Jekyll](https://jekyllrb.com/) is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. 
+
+Benefits to using a static site generator:
+- Faster load times
+- More secure, as you're not passing sensitive information like authentication credentials on every request
+- Can handle traffic spikes better than a database-driven site
+- No need to maintain a database (Github fills this role)
+
+Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
 
 #### Create a blog with Github Pages
 1. Find a theme you like at [Jekyll Themes](http://jekyllthemes.org/)
