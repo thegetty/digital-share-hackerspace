@@ -1,3 +1,17 @@
+# Heading 1
+## Heading 2
+
+### Heading 3
+
+This is **bold** text
+
+Heading Cell 1 | Heading Cell 2
+---            | ---
+Item 1         | Item 2
+Item 3         | Item 4
+
+
+
 # Hackerspace!
 
 > Curious about how software actually gets built? Get introduced to some of the tools that developers use at the Getty, and use them to build your own blog!
