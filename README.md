@@ -70,6 +70,8 @@ Git is a computer program used to track changes in software projects.
 
 If you don't have an account, sign up for free [here](https://github.com/join)
 
+Since a full explanation of how Git works is beyond the scope of this workshop, we'll use the [GitHub Desktop Client](https://desktop.github.com/) to interface with Git for now.
+
 ##### :bulb: Want to learn more about how Git and Github work?
 - [GitHub's Hello World Guide](https://guides.github.com/activities/hello-world/) (~10 minute read)
 - [Try Git Tutorial](https://try.github.io/levels/1/challenges/1) (An interactive tutorial – learn the `git` commands right in your browser)
