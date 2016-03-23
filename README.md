@@ -43,12 +43,15 @@ Syntax | Output
 `#### Heading 4` | H4 Tag
 `##### Headiing 5` | H5 Tag
 `###### Heading 6` | H6 Tag
-`_italics_` | Italicized text
-`**bold**` | Bold text
+`_italics_` | _Italicized text_
+`**bold**` | **Bold text**
 `[Link](http://www.google.com)` | [Hyperlinks](http://www.google.com)
+`![Image](https://octodex.github.com/images/yaktocat.png)` | ![Yaktocat](https://octodex.github.com/images/yaktocat.png)
 `:+1: :camel: :boom:` | Emoji! :+1: :camel: :boom:
 
-This whole document is actually written in Markdown! Want to see the raw text? Just click here!
+This whole document is actually written in Markdown! Want to see the raw text? Just [click here!](https://raw.githubusercontent.com/gettypubs/digital-share-hackerspace/master/README.md)
+
+For a more complete reference on Markdown, check out this [Guide](https://guides.github.com/features/mastering-markdown/)
 
 
 
