@@ -1,17 +1,13 @@
 # Hackerspace!
 
-> Curious about how software actually gets built? Get introduced to some of the tools that developers use at the Getty, 
-> and use them to build your own blog!
+> Curious about how software actually gets built? Get introduced to some of the tools that developers use at the Getty, and use them to build your own blog!
 
 Welcome to the **Hackerspace**, part of the first-ever Getty Digital Share.
 This file contains some useful links and resources to help you get started.
 
 ## Free Software
 
-Some flash drives pre-loaded with useful free software are floating around 
-during the workshop. If you didn't get one, or you if you want to learn more about
-the programs used during the event, here are the links. All of this software is 
-available in both PC and Mac versions:
+Some flash drives pre-loaded with useful free software are floating around during the workshop. If you didn't get one, or you if you want to learn more about the programs used during the event, here are the links. All of this software is available in both PC and Mac versions:
 
 - [Markright Markdown Editor](https://github.com/dvcrn/markright) (scroll down to the [download](https://github.com/dvcrn/markright#download) heading for latest versions)
 - [Github Desktop Client](https://desktop.github.com/)
@@ -25,15 +21,9 @@ available in both PC and Mac versions:
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for formatting documents.
-It doesn't require any special program to use—all markdown files are really just _plain text_.
-There are many tools available which will automatically convert markdown texts into HTML, PDF, 
-and many other formats.
+Markdown is a lightweight and easy-to-use syntax for formatting documents. It doesn't require any special program to use—all markdown files are really just _plain text_. There are many tools available which will automatically convert markdown texts into HTML, PDF, and many other formats.
 
-> The overriding design goal for Markdown’s formatting syntax is to make it as readable as
-> possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain
-> text, without looking like it’s been marked up with tags or formatting instructions.
->
+> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.  
 > -- [John Gruber, creator of Markdown](https://daringfireball.net/projects/markdown/)
 
 #### Basic Markdown Syntax
@@ -68,10 +58,7 @@ _ Source: [XKCD](https://xkcd.com/1597/)
 
 #### GitHub
 
-Git is a computer program used to track changes in software projects.
-[**GitHub**](https://github.com) is a social network that allows people all around the world to share code. Think of it as a friendly interface that sits on top of `git`. The document you're reading now is hosted on GitHub.
-
-If you don't have an account, sign up for free [here](https://github.com/join)
+Git is a computer program used to track changes in software projects. [**GitHub**](https://github.com) is a social network that allows people all around the world to share code. Think of it as a friendly interface that sits on top of `git`. The document you're reading now is hosted on GitHub. If you don't have an account, sign up for free [here](https://github.com/join)
 
 Since a full explanation of how Git works is beyond the scope of this workshop, we'll use the [GitHub Desktop Client](https://desktop.github.com/) to interface with Git for now.
 
@@ -81,7 +68,7 @@ Since a full explanation of how Git works is beyond the scope of this workshop, 
 
 ### Static Site Generators
 
-[Jekyll](https://jekyllrb.com/) is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. 
+[Jekyll](https://jekyllrb.com/) is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.
 
 Benefits to using a static site generator:
 - Faster load times
