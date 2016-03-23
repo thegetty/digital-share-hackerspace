@@ -54,9 +54,15 @@ This whole document is actually written in Markdown! Want to see the raw text? J
 For a more complete reference on Markdown, check out this [Guide](https://guides.github.com/features/mastering-markdown/)
 
 
-
-
 ### Git
+
+![XKCD GIT](http://imgs.xkcd.com/comics/git.png)
+
+`git` is a tool that software developers use for **version control**. Version Control is sort of like Track Changes in Microsoft Word, but for code. It's also a lot more powerful. Using Git, a developer can move forward and backwards through a projects history, see who made what changes, revert mistakes, and create alternate versions of the same codebase. These different versions are called **branches**.
+
+Git is very powerful, but it can also be a bit confusing at first:
+
+_ Source: [XKCD](https://xkcd.com/1597/)
 
 If you don't have an account, sign up for free [here](https://github.com/join)
 
