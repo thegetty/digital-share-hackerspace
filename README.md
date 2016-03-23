@@ -77,3 +77,13 @@ Since a full explanation of how Git works is beyond the scope of this workshop, 
 - [Try Git Tutorial](https://try.github.io/levels/1/challenges/1) (An interactive tutorial – learn the `git` commands right in your browser)
 
 ### Static Site Generators
+
+> Some info about Jekyll/static site generators here
+
+#### Create a blog with Github Pages
+1. Find a theme you like at [Jekyll Themes](http://jekyllthemes.org/)
+2. Clone the repo to your computer
+3. Make some changes, write stuff
+4. Create a new branch called `gh-pages`
+5. Publish your branch on GitHub
+6. navigate to `www.your-username.github.io/your-repository-name` To see your site!
